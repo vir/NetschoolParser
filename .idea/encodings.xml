@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/lib" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ru/spb/vir/browser/Browser.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ru/spb/vir/browser/Form.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ru/spb/vir/browser/FormTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ru/spb/vir/http/HttpMessage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ru/spb/vir/http/Request.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ru/spb/vir/http/Response.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ru/spb/vir/http/UserAgent.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ru/spb/vir/netschool/InitParams.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ru/spb/vir/netschool/Logger.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ru/spb/vir/netschool/MarkBook.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ru/spb/vir/netschool/NetSchoolParser.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ru/spb/vir/netschool/Schedule.java" charset="UTF-8" />
+  </component>
+</project>
